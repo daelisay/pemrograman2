@@ -1,4 +1,0 @@
-# PRAKTIKUM PEMROGRAMAN 2
-
-Nama: Fajra Hanifa Nuridi Radam
-NIM: 2010817220030
